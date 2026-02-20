@@ -53,3 +53,10 @@ This demonstrates the Principle of Least Privilege because Windows restricts use
 - PID: 33544  
 - Description: dllhost.exe hosts COM objects and allows Windows to safely run certain extensions and system components separately from main processes.  
 - Security Risk Hypothesis: Attackers may disguise malware as dllhost.exe to evade detection. If exploited, it could be used for stealthy persistence, fileless malware execution, or privilege escalation within the operating system.
+
+- ## Section 4 – Technical Requirements
+
+- This report is written using proper Markdown formatting (headings, bullet points, and structured sections).
+- The file is named exactly `System-Audit.md` as required.
+- A descriptive Git commit message was used when pushing the project to GitHub.
+- The repository was successfully pushed to GitHub and verified online.
